@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\bin\Release\TriangleTC.exe.config
+C:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\bin\Release\TriangleTC.exe
+C:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\bin\Release\TriangleTC.pdb
+C:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\obj\Release\TriangleTC.exe
+C:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\obj\Release\TriangleTC.pdb

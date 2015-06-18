@@ -1,0 +1,6 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\GerberdForParams\bin\Debug\GerberdForParams.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\GerberdForParams\bin\Debug\GerberdForParams.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\GerberdForParams\bin\Debug\GerberdForParams.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\GerberdForParams\obj\Debug\GerberdForParams.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\GerberdForParams\obj\Debug\GerberdForParams.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\GerberdForParams\obj\Debug\GerberdForParams.pdb

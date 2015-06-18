@@ -1,0 +1,10 @@
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\мой C#\телефонная книга\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\мой C#\телефонная книга\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\мой C#\телефонная книга\ConsoleApplication1\ClassLibrary1\obj\Release\Library.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\мой C#\телефонная книга\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\мой C#\телефонная книга\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

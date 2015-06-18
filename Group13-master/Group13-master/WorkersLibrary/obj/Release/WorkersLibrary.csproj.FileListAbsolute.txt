@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\GitHub\Group13\WorkersLibrary\bin\Release\WorkersLibrary.dll
+C:\Users\Alex\Documents\GitHub\Group13\WorkersLibrary\bin\Release\WorkersLibrary.pdb
+C:\Users\Alex\Documents\GitHub\Group13\WorkersLibrary\obj\Release\WorkersLibrary.dll
+C:\Users\Alex\Documents\GitHub\Group13\WorkersLibrary\obj\Release\WorkersLibrary.pdb
+C:\Users\Alex\Desktop\Group13-master\Group13-master\WorkersLibrary\bin\Release\WorkersLibrary.dll
+C:\Users\Alex\Desktop\Group13-master\Group13-master\WorkersLibrary\bin\Release\WorkersLibrary.pdb
+C:\Users\Alex\Desktop\Group13-master\Group13-master\WorkersLibrary\obj\Release\WorkersLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Group13-master\Group13-master\WorkersLibrary\obj\Release\WorkersLibrary.dll
+C:\Users\Alex\Desktop\Group13-master\Group13-master\WorkersLibrary\obj\Release\WorkersLibrary.pdb

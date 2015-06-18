@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\HomePraktika\bin\Debug\HomePraktika.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\HomePraktika\bin\Debug\HomePraktika.exe
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\HomePraktika\bin\Debug\HomePraktika.pdb
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\HomePraktika\obj\Debug\HomePraktika.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\HomePraktika\obj\Debug\HomePraktika.exe
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\HomePraktika\obj\Debug\HomePraktika.pdb

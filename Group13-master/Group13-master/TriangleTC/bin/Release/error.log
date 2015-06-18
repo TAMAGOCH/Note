@@ -1,0 +1,42 @@
+26.05.2015 18:23:03
+Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Lesson8.Work.GetNumber() в c:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\Program.cs:строка 64
+---------------------------------
+26.05.2015 18:23:12
+Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Lesson8.Work.GetNumber() в c:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\Program.cs:строка 66
+---------------------------------
+26.05.2015 18:23:25
+Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Lesson8.Work.GetNumber() в c:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\Program.cs:строка 64
+---------------------------------
+26.05.2015 18:23:30
+Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Lesson8.Work.GetNumber() в c:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\Program.cs:строка 64
+---------------------------------
+26.05.2015 18:24:03
+Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Lesson8.Work.GetNumber() в c:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\Program.cs:строка 66
+---------------------------------
+26.05.2015 18:24:11
+Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Lesson8.Work.GetNumber() в c:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\Program.cs:строка 64
+---------------------------------
+26.05.2015 18:29:03
+Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Lesson8.Work.GetNumber() в c:\Users\Alex\Desktop\Group13-master\Group13-master\TriangleTC\Program.cs:строка 54
+---------------------------------

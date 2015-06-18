@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\homeWorke\homeWorke\bin\Debug\homeWorke.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\homeWorke\bin\Debug\homeWorke.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\homeWorke\bin\Debug\homeWorke.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\homeWorke\obj\Debug\homeWorke.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\homeWorke\obj\Debug\homeWorke.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\homeWorke\obj\Debug\homeWorke.pdb

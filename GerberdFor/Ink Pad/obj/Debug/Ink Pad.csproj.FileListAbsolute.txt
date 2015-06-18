@@ -1,0 +1,13 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\bin\Debug\Ink Pad.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\bin\Debug\Ink Pad.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\bin\Debug\Ink Pad.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\Ink Pad.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\MainWindow.baml
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\App.g.cs
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\Ink Pad_MarkupCompile.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\Ink Pad.g.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\Ink_Pad.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\Ink Pad.csproj.GenerateResource.Cache
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\Ink Pad.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\GerberdFor\Ink Pad\obj\Debug\Ink Pad.pdb

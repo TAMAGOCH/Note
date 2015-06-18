@@ -1,0 +1,8 @@
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

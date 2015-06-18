@@ -1,0 +1,23 @@
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ClassLibrary1.dll
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ClassLibrary1.pdb
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Documents and Settings\ELWest\Рабочий стол\1\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\infa\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\infa\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\infa\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ClassLibrary1.dll
+D:\infa\1\ConsoleApplication1\ConsoleApplication1\bin\Release\ClassLibrary1.pdb
+D:\infa\1\ConsoleApplication1\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\infa\1\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\infa\1\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\Литература от Юры\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\Литература от Юры\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\Литература от Юры\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\Литература от Юры\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\Литература от Юры\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\bin\Release\ClassLibrary1.dll
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\Литература от Юры\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\bin\Release\ClassLibrary1.pdb
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\Литература от Юры\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Alex\GoFlex\Library\мой C#\телефонная книга\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

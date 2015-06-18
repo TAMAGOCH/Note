@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\GitHub\Group13\Lesson9_types\bin\Release\Lesson9_types.exe.config
+C:\Users\Alex\Documents\GitHub\Group13\Lesson9_types\bin\Release\Lesson9_types.exe
+C:\Users\Alex\Documents\GitHub\Group13\Lesson9_types\bin\Release\Lesson9_types.pdb
+C:\Users\Alex\Documents\GitHub\Group13\Lesson9_types\obj\Release\Lesson9_types.exe
+C:\Users\Alex\Documents\GitHub\Group13\Lesson9_types\obj\Release\Lesson9_types.pdb
+C:\Users\Alex\Desktop\Group13-master\Group13-master\Lesson9_types\bin\Release\Lesson9_types.exe.config
+C:\Users\Alex\Desktop\Group13-master\Group13-master\Lesson9_types\obj\Release\Lesson9_types.exe
+C:\Users\Alex\Desktop\Group13-master\Group13-master\Lesson9_types\obj\Release\Lesson9_types.pdb
+C:\Users\Alex\Desktop\Group13-master\Group13-master\Lesson9_types\bin\Release\Lesson9_types.exe
+C:\Users\Alex\Desktop\Group13-master\Group13-master\Lesson9_types\bin\Release\Lesson9_types.pdb
+C:\Users\Alex\Desktop\Group13-master\Group13-master\Lesson9_types\obj\Release\Lesson9_types.csprojResolveAssemblyReference.cache

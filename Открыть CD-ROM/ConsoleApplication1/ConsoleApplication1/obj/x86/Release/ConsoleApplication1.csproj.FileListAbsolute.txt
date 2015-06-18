@@ -1,0 +1,10 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+J:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+J:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+J:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+J:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+J:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\ConsoleApplication1\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache

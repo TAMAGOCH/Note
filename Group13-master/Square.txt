@@ -1,0 +1,55 @@
+class Square
+{
+	//поля и свойство
+	public int x;
+	public int y;
+	private int a;
+	public string color;
+	public static int count;
+	public int A
+	{
+		get { return a; }
+		set
+			{
+				if (value >= 0)
+				{
+					a = value;
+				}
+				else
+				{
+					Console.WriteLine("Неверно задана длина");
+				}
+			}
+	}
+	//конструкторы
+	public Square(int x, int y, int a, string color)
+	{
+		this.x = x;
+		this.y = y;
+		this.A = a;
+		this.color = color;
+		if (color == "Red")
+	}
+	public Square()
+	: this(0, 0, 1, "White")
+	{ }
+	
+	//методы
+	public int Area()
+	{
+		return (int)Math.Pow(this.A, 2);
+	}
+	public int Perimeter()
+	{
+		return this.A * 4;
+	}
+	public void Print()
+	{
+		Console.WriteLine("Координаты: X=" + x + " Y=" + y);
+		Console.WriteLine("Длина стороны = " + A);
+		Console.WriteLine("Площадь = " + Area());
+		Console.WriteLine("Периметр = " + Perimeter());
+		Console.WriteLine("Цвет: " + color);
+		Console.WriteLine();
+	}
+}

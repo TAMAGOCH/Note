@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\GerberdFor\bin\Debug\GerberdFor.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\GerberdFor\bin\Debug\GerberdFor.exe
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\GerberdFor\bin\Debug\GerberdFor.pdb
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\GerberdFor\obj\Debug\GerberdFor.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\GerberdFor\obj\Debug\GerberdFor.exe
+c:\users\alex\documents\visual studio 2013\Projects\GerberdFor\GerberdFor\obj\Debug\GerberdFor.pdb

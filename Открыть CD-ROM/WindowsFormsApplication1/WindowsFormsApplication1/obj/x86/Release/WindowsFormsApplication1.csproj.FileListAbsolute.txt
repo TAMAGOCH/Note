@@ -1,0 +1,15 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+J:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+J:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+E:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+E:\C#\БЛОГ НА САЙТЕ\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+E:\Library\мой C#\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+E:\Library\мой C#\Открыть CD-ROM\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

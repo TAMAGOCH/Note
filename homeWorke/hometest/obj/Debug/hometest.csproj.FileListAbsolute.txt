@@ -1,0 +1,6 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\hometest\bin\Debug\hometest.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\hometest\bin\Debug\hometest.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\hometest\bin\Debug\hometest.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\hometest\obj\Debug\hometest.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\hometest\obj\Debug\hometest.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\homeWorke\hometest\obj\Debug\hometest.pdb
